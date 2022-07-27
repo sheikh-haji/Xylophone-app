@@ -1,16 +1,12 @@
 # xylophone
 
-A new Flutter project.
+-Use of Basic Widgets like TextButton,Columns,and Event Handler like on pressed()
+<br/>
+-Using Audioplayer flutter plugin to play custum audio
+<br/>
+-Use of classes and object to synchronize between the textbutton
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/64357406/181306534-d98fe8eb-101c-4616-9501-804545cee3f6.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
